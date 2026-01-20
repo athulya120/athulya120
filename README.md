@@ -16,9 +16,9 @@ Data Visualization & BI: Power BI, Exploratory Data Analysis
 
 🔗Health Insurance Cost Prediction – https://github.com/athulya120/Health-Insurance-Cost-Prediction
 
-🔗Brain Tumor Detection using CNN – Developed a convolutional neural network to classify MRI scans for brain tumor detection.
+🔗Brain Tumor Detection using CNN – https://github.com/athulya120/Brain-Tumor-Detection-Using---CNN
 
-🔗Blinkit Data Analysis – Analyzed transactional data to uncover trends and visualize actionable insights.
+🔗Blinkit Data Analysis – 
 
 🛠 Tools
 
