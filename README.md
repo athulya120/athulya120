@@ -18,7 +18,7 @@ Data Visualization & BI: Power BI, Exploratory Data Analysis
 
 🔗Brain Tumor Detection using CNN – https://github.com/athulya120/Brain-Tumor-Detection-Using---CNN
 
-🔗Blinkit Data Analysis – 
+🔗Blinkit Data Analysis – https://github.com/athulya120/Blinkit_analysis
 
 🛠 Tools
 
