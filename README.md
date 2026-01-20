@@ -14,7 +14,7 @@ Data Visualization & BI: Power BI, Exploratory Data Analysis
 
 📊 Projects
 
-🔗Health Insurance Cost Prediction – Built regression models to predict individual insurance costs with high accuracy.
+🔗Health Insurance Cost Prediction – https://github.com/athulya120/Health-Insurance-Cost-Prediction
 
 🔗Brain Tumor Detection using CNN – Developed a convolutional neural network to classify MRI scans for brain tumor detection.
 
