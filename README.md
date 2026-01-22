@@ -15,7 +15,7 @@ Data Visualization & BI: Power BI, Exploratory Data Analysis
 ### 🔗 [Health Insurance Cost Prediction](https://github.com/athulya120/Health-Insurance-Cost-Prediction)
 • Built machine learning models to predict health insurance charges based on age,BMI,smoking habits, and other factors  
 • Performed data preprocessing, exploratory data analysis, and model evaluation  
-• Tools: Python, Pandas, NumPy, Scikit-learn, Matplotlib,Streamlite
+• Tools: Python, Pandas, NumPy, Scikit-learn, Matplotlib,Streamlit
 
 ---
 
