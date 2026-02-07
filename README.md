@@ -15,7 +15,7 @@ Data Analysis:
 
 Machine Learning & AI: Scikit-learn, CNNs
 
-Data Visualization & BI: Power BI, Exploratory Data Analysis
+Data Visualization & BI: Power BI, Matplotlib, Seaborn
 
 📊 Projects
 ### 🔗 [Health Insurance Cost Prediction](https://github.com/athulya120/Health-Insurance-Cost-Prediction)
