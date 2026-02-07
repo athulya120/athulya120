@@ -1,11 +1,17 @@
 Hi, I’m Athulya P B 👋
-Aspiring Data Scientist | Machine Learning Enthusiast
+Data Analyst | SQL • Python • Power BI
 
-I’m passionate about turning data into actionable insights. I enjoy exploring complex datasets, building machine learning models, and visualizing findings to drive smart decisions.
-With hands-on experience in Python, SQL, and Power BI, I aim to solve real-world problems through data.
+I’m a Data Analyst passionate about transforming raw data into actionable business insights. I enjoy working with SQL and Python for data analysis, performing exploratory data analysis (EDA),and building interactive dashboards using Power BI to support data-driven decision-making.
+I have hands-on experience through real-world projects and internship work, and I enjoy solving 
+business problems using data.
 
 💡 Skills
 Programming & Analysis: Python, SQL, Pandas, NumPy
+
+Data Analysis:
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Transformation
+- Business Insights & Trend Analysis
 
 Machine Learning & AI: Scikit-learn, CNNs
 
